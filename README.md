@@ -14,7 +14,7 @@
 
 Comparison of the typical Training withInstance and the proposed Learning with Instruction: The former involves training the model at the instance level with parameter updates, while the latter generates a task-specific adapter at the task level with parameter generation.
 
-<img src="assets/overview.jpg"  width="90%">
+<img src="assets/overview.jpg"  width="100%">
 
 ## 🤝 Referencing and Citing 
 

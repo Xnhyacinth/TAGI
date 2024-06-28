@@ -9,9 +9,9 @@
 <p align="center">
 <!-- 🔔 <a href="https://github.com/Xnhyacinth/TAGI" target="_blank">Code</a> • 📃 <a href="https://arxiv.org/abs/2406.12382" target="_blank">Paper</a> <br>  -->
 🔔 <a target="_blank" href="https://arxiv.org/abs/2406.12382">
-<img style="height:16pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a>
+<img style="height:12pt" src="https://img.shields.io/badge/-Paper-purple?style=flat&logo=arxiv"></a>
  • 📃 <a target="_blank" href="https://github.com/Xnhyacinth/TAGI">
-<img style="height:16pt" src="https://img.shields.io/badge/-Code-green?style=flat&logo=github"></a>
+<img style="height:12pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a>
 </p>
 
 <!-- <a target="_blank" href="https://tiger-ai-lab.github.io/LongRAG/">

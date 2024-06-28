@@ -9,7 +9,17 @@
 <p align="center">
 🔔 <a href="https://github.com/Xnhyacinth/TAGI" target="_blank">Code</a> • 📃 <a href="https://arxiv.org/abs/2406.12382" target="_blank">Paper</a> <br> 
 </p>
-
+<!-- <a target="_blank" href="https://arxiv.org/abs/2406.15319">
+<img style="height:22pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a>
+<a target="_blank" href="https://github.com/TIGER-AI-Lab/LongRAG">
+<img style="height:22pt" src="https://img.shields.io/badge/-Code-green?style=flat&logo=github"></a>
+<a target="_blank" href="https://tiger-ai-lab.github.io/LongRAG/">
+<img style="height:22pt" src="https://img.shields.io/badge/-🌐%20Website-blue?style=flat"></a>
+<a target="_blank" href="https://huggingface.co/datasets/TIGER-Lab/LongRAG">
+<img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Dataset-red?style=flat"></a>
+<a target="_blank" href="https://x.com/WenhuChen/status/1805278871786340644">
+<img style="height:22pt" src="https://img.shields.io/badge/-Tweet-blue?style=flat&logo=twitter"></a>
+<br> -->
 ## 🎓 TAGI Overview
 
 Comparison of the typical Training withInstance and the proposed Learning with Instruction: The former involves training the model at the instance level with parameter updates, while the latter generates a task-specific adapter at the task level with parameter generation.
@@ -21,10 +31,10 @@ Comparison of the typical Training withInstance and the proposed Learning with I
 If you find our work useful in your research and would like to cite our project, please use the following citation: found this work useful, please consider giving this repository a star and citing our paper as follows:
 ```bibtex
 @article{liao2024instance,
-	title={From Instance Training to Instruction Learning: Task Adapters Generation from Instructions},
-	author={Liao, Huanxuan and He, Shizhu and Xu, Yao and Zhang, Yuanzhe and Hao, Yanchao and Liu, Shengping and Liu, Kang and Zhao, Jun},
-	journal={arXiv preprint arXiv:2406.12382},
-	year={2024}
+  title={From Instance Training to Instruction Learning: Task Adapters Generation from Instructions},
+  author={Liao, Huanxuan and Xu, Yao and He, Shizhu and Zhang, Yuanzhe and Hao, Yanchao and Liu, Shengping and Liu, Kang and Zhao, Jun},
+  journal={arXiv preprint arXiv:2406.12382},
+  year={2024}
 }
 ```
 

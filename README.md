@@ -1,6 +1,6 @@
 # 📄 From Instance Training to Instruction Learning: Task Adapters Generation from Instructions 💡
 
-<p align="center">
+<p align="center" style="font-size:200%">
     <img alt="GitHub" src="https://img.shields.io/github/license/Xnhyacinth/TAGI.svg?color=blue&style=flat-square">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Xnhyacinth/TAGI">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Xnhyacinth/TAGI">
@@ -8,12 +8,7 @@
 
 <p align="center">
 <!-- 🔔 <a href="https://github.com/Xnhyacinth/TAGI" target="_self">Code</a> • 📃 <a href="https://arxiv.org/abs/2406.12382" target="_self">Paper</a> <br>  -->
-<p style='font-size:200%'>📃</p> <a target="_self" href="https://arxiv.org/abs/2406.12382">
-<img style="height:18pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a>
- • <p style='font-size:200%'>🔔</p> <a target="_self" href="https://github.com/Xnhyacinth/TAGI">
-<img style="height:18pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a>
- • <p style='font-size:200%'>⛳</p> <img style="height:18pt" src="https://img.shields.io/badge/-🌐%20Homepage-blue?style=flat"></a>
-<a target="_self" href="https://xnhyacinth.github.io/TAGI">
+<p align="center" style="font-size:200%">📃 <a target="_self" href="https://arxiv.org/abs/2406.12382"> <img style="height:20pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> • 🔔 <a target="_self" href="https://github.com/Xnhyacinth/TAGI"> <img style="height:20pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a> • ⛳ <a target="_self" href="https://xnhyacinth.github.io/TAGI"> <img style="height:20pt" src="https://img.shields.io/badge/-🌐%20Homepage-blue?style=flat"></a></p>
 </p>
 
 <!-- <a target="_self" href="https://tiger-ai-lab.github.io/LongRAG/">

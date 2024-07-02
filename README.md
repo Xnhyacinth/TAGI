@@ -8,11 +8,11 @@
 
 <p align="center">
 <!-- 🔔 <a href="https://github.com/Xnhyacinth/TAGI" target="_self">Code</a> • 📃 <a href="https://arxiv.org/abs/2406.12382" target="_self">Paper</a> <br>  -->
-📃 <a target="_self" href="https://arxiv.org/abs/2406.12382">
+<p style='font-size:200%'>📃</p> <a target="_self" href="https://arxiv.org/abs/2406.12382">
 <img style="height:18pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a>
- • 🔔 <a target="_self" href="https://github.com/Xnhyacinth/TAGI">
+ • <p style='font-size:200%'>🔔</p> <a target="_self" href="https://github.com/Xnhyacinth/TAGI">
 <img style="height:18pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a>
- • ⛳ <img style="height:18pt" src="https://img.shields.io/badge/-🌐%20Website-blue?style=flat"></a>
+ • <p style='font-size:200%'>⛳</p> <img style="height:18pt" src="https://img.shields.io/badge/-🌐%20Homepage-blue?style=flat"></a>
 <a target="_self" href="https://xnhyacinth.github.io/TAGI">
 </p>
 

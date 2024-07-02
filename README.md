@@ -6,10 +6,10 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Xnhyacinth/TAGI">
 </p>
 
-<p align="center">
+<!-- <p align="center" style="font-size:200%"> -->
 <!-- 🔔 <a href="https://github.com/Xnhyacinth/TAGI" target="_self">Code</a> • 📃 <a href="https://arxiv.org/abs/2406.12382" target="_self">Paper</a> <br>  -->
-<p align="center" style="font-size:200%">📃 <a target="_self" href="https://arxiv.org/abs/2406.12382"> <img style="height:20pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> • 🔔 <a target="_self" href="https://github.com/Xnhyacinth/TAGI"> <img style="height:20pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a> • ⛳ <a target="_self" href="https://xnhyacinth.github.io/TAGI"> <img style="height:20pt" src="https://img.shields.io/badge/-🌐%20Homepage-blue?style=flat"></a></p>
-</p>
+<p align="center"><font size=6>📃</font> <a target="_self" href="https://arxiv.org/abs/2406.12382"> <img style="height:20pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a> <font size=6>•</font> <font size=6>🔔</font> <a target="_self" href="https://github.com/Xnhyacinth/TAGI"> <img style="height:20pt" src="https://img.shields.io/badge/-Code-pink?style=flat&logo=github"></a> <font size=6>•</font> <font size=6>⛳</font> <a target="_self" href="https://xnhyacinth.github.io/TAGI"> <img style="height:20pt" src="https://img.shields.io/badge/-🌐%20Homepage-blue?style=flat"></a></p>
+<!-- </p> -->
 
 <!-- <a target="_self" href="https://tiger-ai-lab.github.io/LongRAG/">
 <img style="height:22pt" src="https://img.shields.io/badge/-🌐%20Website-blue?style=flat"></a>

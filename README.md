@@ -28,12 +28,12 @@ Comparison of the typical Training withInstance and the proposed Learning with I
 
 If you find our work useful in your research and would like to cite our project, please use the following citation: found this work useful, please consider giving this repository a star and citing our paper as follows:
 ```bibtex
-@inproceedings{
-	liao2024from,
-	title={From Instance Training to Instruction Learning: Task Adapters Generation from Instructions},
-	author={Huanxuan Liao and Shizhu He and Yao Xu and Yuanzhe Zhang and Yanchao Hao and Shengping Liu and Kang Liu and Jun Zhao},
-	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-	year={2024},
-	url={https://openreview.net/forum?id=CluvZBfrjj}
+@article{liao2024instance,
+  title={From instance training to instruction learning: Task adapters generation from instructions},
+  author={Liao, Huanxuan and He, Shizhu and Xu, Yao and Zhang, Yuanzhe and Hao, Yanchao and Liu, Shengping and Liu, Kang and Zhao, Jun},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={45552--45577},
+  year={2024}
 }
 ```
